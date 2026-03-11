@@ -15,9 +15,6 @@ from sklearn.preprocessing import StandardScaler
 ## load dataset
 wine = datasets.load_wine()
 X, y = wine.data, wine.target
-# x.shape = (178,13)
-# y.shape = (178)
-# print(wine.feature_names,wine.target_names)
 
 ## build model 
 def build_model(n_units=int):

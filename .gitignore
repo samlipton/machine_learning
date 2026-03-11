@@ -1,4 +1,3 @@
-articles/
-notes/
-slides/
-syllabus/
+notebooks/_chatgpt
+references/
+*pycache*
