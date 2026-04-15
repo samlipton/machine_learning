@@ -23,7 +23,7 @@ X_tr, X_te, y_tr, y_te = train_test_split(X, y, test_size=0.2,
 ## build model
 clf = Pipeline([
     ("scaler", StandardScaler()),
-    ("svm", SVC(kernel="rbf", C=1.0, gamma="scale"))
+    ("svm", SVC(kernel="rbf", C=1.0, gamma=0.01))
 ])
 
 ## fit model
