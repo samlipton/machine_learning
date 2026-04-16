@@ -30,14 +30,14 @@ The datasets are downloaded into the **data/** directory from public repositorie
 
 ### Scripts
 
-The code snippets in the **scripts/** directory solve recurring sub-problems (e.g., modular implementation of architecture, fine-tuning) on the covered methods.  
+The code snippets in the **scripts/** directory solve recurring sub-problems (e.g., modular implementation of architecture, fine-tuning) using the listed algorithms.  
 
 ### Projects 
 
-The modules sorted by problem type in the **projects/** directory contain core dynamical `classes` and `methods`:
+The modules in the **projects/** directory contain core dynamical `classes` and `methods` for the following tasks:
 - patter recognition:
-  - `classifier`: classification tasks
-  - `cluster`: clustering tasks
+  - `classifier`: classification
+  - `cluster`: clustering
 
 ### Notebooks (Jupyter)
 
