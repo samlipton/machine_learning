@@ -54,7 +54,7 @@ Install dependencies: ```$pip install numpy scipy matplotlib tensorflow```
 
 ## Usage
 
-Run the Jupyter notebooks for exploratory analysis
+Run the [Jupyter notebooks](https://github.com/samlipton/machine_learning/tree/master/notebooks) for exploratory analysis
 
 ## License
 
