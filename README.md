@@ -43,7 +43,7 @@ The modules in the **projects/** directory contain core dynamical `classes` and 
 
 The end-to-end analyses in the **notebooks/** directory provide methodogical documentation on solving a given tasks within certain machine learning paradigms:
 - `01_classifier`: classification on small datasets by SVM and RF
-- `02_classifier_nn`: classification usgin neural networks (ANN for tabular data, CNN for images)
+- `02_classifier_nn`: classification using neural networks (ANN for tabular data, CNN for images)
 - `03_dimensionality`: dimensionality reduction using PCA
 
 ## Installation
