@@ -30,7 +30,7 @@ The datasets are downloaded into the **data/** directory from public repositorie
 
 ### Scripts
 
-The code snippets in the **scripts/** directory solve recurring sub-problems (e.g., modular implementation of architecture, fine-tuning) using the listed algorithms.  
+The code snippets in the **scripts/** directory solve recurring sub-problems (e.g., data pre-processing, architecture modular implementation, fine-tuning) using the listed algorithms.  
 
 ### Projects 
 
