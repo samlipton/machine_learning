@@ -2,7 +2,7 @@
 
 This repository contains a collection of machine learning projects implemented using modular and reproducible workflows.
 
-The analyses, provided as [Jupyter notebooks](https://github.com/samlipton/machine_learning/tree/master/notebooks) (`*.ipynb`), cover the following paradigms and their :
+The analyses, provided as [Jupyter notebooks](https://github.com/samlipton/machine_learning/tree/master/notebooks) (`*.ipynb`), cover the following paradigms:
 - **Supervised learning**: Support Vector Machines (SVM)
 - **Ensemble learning**: Random Forests (RF)
 - **Deep learning**: Neural Networks (NN)
