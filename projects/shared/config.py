@@ -1,6 +1,6 @@
 """
 
-Configuration file for Classifiers
+Configuration file 
 
 """
 

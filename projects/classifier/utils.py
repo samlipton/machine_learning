@@ -5,6 +5,26 @@ Custom functions for Classifiers
 """
 
 import numpy as np
+from pathlib import Path
+
+# =============================================================================
+# SUtilities
+# =============================================================================
+
+def read_column(path: Path, index: int = 0, dtype=float) -> np.ndarray:
+    """
+    Reads a file into an array
+    """
+
+    data = []
+    with open(path) as f:
+        for line in f:
+            parts = line.split()
+            if len(parts) > index:
+                data.append(parts[index])
+
+    return np.asarray(data, dtype=dtype)
+
 
 # =============================================================================
 # Support vector machines
