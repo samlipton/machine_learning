@@ -25,8 +25,7 @@ The directory structure is intentionally lightweight and modular:
 
 ### Data
 
-The datasets are downloaded into the **data/** directory from public repositories: 
-- glass_id: [glass identification](https://archive.ics.uci.edu/dataset/42/glass+identification) based on oxide composition
+The datasets are downloaded into the **data/** directory from public repositories listed in `data.md`.
 
 ### Scripts
 
